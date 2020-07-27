@@ -168,6 +168,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -349,6 +350,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -704,6 +706,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -886,6 +889,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -6084,6 +6088,7 @@ ParticleSystemRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -6177,6 +6182,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -6565,6 +6571,7 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -11389,6 +11396,7 @@ ParticleSystemRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -12020,6 +12028,7 @@ MonoBehaviour:
   WeaponAttachment: {fileID: 249}
   ProjectileSpawn: {fileID: 0}
   AutomaticallyBindAnimator: 1
+  AmmoDisplayID: 0
   AutoIK: 1
   ContinuousPress: 1
   GettingHitInterruptsAttack: 0
@@ -12215,6 +12224,7 @@ MonoBehaviour:
   - {fileID: 230489681856990682}
   - {fileID: 6253140280517845846}
   InitializationMode: 2
+  AutoPlayOnStart: 0
   DebugActive: 0
 --- !u!114 &8447086284283865815
 MonoBehaviour:
@@ -12247,6 +12257,7 @@ MonoBehaviour:
   RandomSfx:
   - {fileID: 8300000, guid: 1fddfa668a19af04aaf4e477cbb4dbe0, type: 3}
   - {fileID: 8300000, guid: 78dca81863cc0c244b9d2e2084a94a15, type: 3}
+  TestButton: 0
   PlayMethod: 0
   PoolSize: 10
   MinVolume: 0.7
@@ -12282,6 +12293,11 @@ MonoBehaviour:
     TargetBPM: 120
   DebugActive: 0
   Channel: 0
+  Duration: 0.2
+  ResetShakerValuesAfterShake: 1
+  ResetTargetValuesAfterShake: 1
+  RemapIntensityZero: 0
+  RemapIntensityOne: 1
   Intensity:
     serializedVersion: 2
     m_Curve:
@@ -12315,7 +12331,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  Duration: 0.2
   Amplitude: 1
   RelativeIntensity: 0
 --- !u!114 &6253140280517845846
@@ -12407,6 +12422,7 @@ MonoBehaviour:
   - {fileID: 4054387115838825641}
   - {fileID: 2627261861394721453}
   InitializationMode: 2
+  AutoPlayOnStart: 0
   DebugActive: 0
 --- !u!114 &6672170498503671035
 MonoBehaviour:
@@ -12525,6 +12541,11 @@ MonoBehaviour:
     TargetBPM: 120
   DebugActive: 0
   Channel: 0
+  Duration: 0.2
+  ResetShakerValuesAfterShake: 1
+  ResetTargetValuesAfterShake: 1
+  RemapIntensityZero: 0
+  RemapIntensityOne: 1
   Intensity:
     serializedVersion: 2
     m_Curve:
@@ -12558,7 +12579,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  Duration: 0.2
   Amplitude: 1
   RelativeIntensity: 0
 --- !u!114 &8997507655518915988
@@ -12621,6 +12641,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: ccec37d734aad9b49a1a39a8a7262bbd, type: 3}
   - {fileID: 8300000, guid: 4e4e706c4c03d554fbf42a015cc10055, type: 3}
   - {fileID: 8300000, guid: 497123663b0cc014c96d9984ce147c73, type: 3}
+  TestButton: 0
   PlayMethod: 0
   PoolSize: 10
   MinVolume: 0.8
@@ -12656,6 +12677,8 @@ MonoBehaviour:
     TargetBPM: 120
   DebugActive: 0
   BoundRenderer: {fileID: 328}
+  Mode: 0
+  PropertyName: _Tint
   FlickerDuration: 0.2
   FlickerOctave: 0.04
   FlickerColor: {r: 1, g: 0.078431375, b: 0.078431375, a: 1}
@@ -12708,6 +12731,7 @@ MonoBehaviour:
   - {fileID: 1614412797315518562}
   - {fileID: 8661409117539075534}
   InitializationMode: 2
+  AutoPlayOnStart: 0
   DebugActive: 0
 --- !u!114 &1614412797315518562
 MonoBehaviour:
@@ -12740,6 +12764,7 @@ MonoBehaviour:
   RandomSfx:
   - {fileID: 8300000, guid: 1fddfa668a19af04aaf4e477cbb4dbe0, type: 3}
   - {fileID: 8300000, guid: 78dca81863cc0c244b9d2e2084a94a15, type: 3}
+  TestButton: 0
   PlayMethod: 0
   PoolSize: 10
   MinVolume: 0.7
@@ -12775,6 +12800,11 @@ MonoBehaviour:
     TargetBPM: 120
   DebugActive: 0
   Channel: 0
+  Duration: 0.2
+  ResetShakerValuesAfterShake: 1
+  ResetTargetValuesAfterShake: 1
+  RemapIntensityZero: 0
+  RemapIntensityOne: 1
   Intensity:
     serializedVersion: 2
     m_Curve:
@@ -12808,7 +12838,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  Duration: 0.2
   Amplitude: 1
   RelativeIntensity: 0
 --- !u!1 &6999751425486533693
@@ -12862,6 +12891,7 @@ MonoBehaviour:
   - {fileID: 8466960599902133588}
   - {fileID: 1127790403505060922}
   InitializationMode: 2
+  AutoPlayOnStart: 0
   DebugActive: 0
 --- !u!114 &3394749397292467781
 MonoBehaviour:
@@ -12924,7 +12954,9 @@ MonoBehaviour:
   Channel: 0
   ShakeDuration: 1
   RelativeIntensity: 1
-  PostExposure:
+  ResetShakerValuesAfterShake: 1
+  ResetTargetValuesAfterShake: 1
+  ShakePostExposure:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
@@ -12957,8 +12989,9 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  PostExposureAmplitude: 0.2
-  HueShift:
+  RemapPostExposureZero: 0
+  RemapPostExposureOne: 1
+  ShakeHueShift:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
@@ -12991,8 +13024,9 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  HueShiftAmplitude: 0
-  Saturation:
+  RemapHueShiftZero: 0
+  RemapHueShiftOne: 180
+  ShakeSaturation:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
@@ -13025,8 +13059,9 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  SaturationAmplitude: -100
-  Contrast:
+  RemapSaturationZero: 0
+  RemapSaturationOne: 100
+  ShakeContrast:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
@@ -13059,7 +13094,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  ContrastAmplitude: 0
+  RemapContrastZero: 0
+  RemapContrastOne: 100
 --- !u!114 &1127790403505060922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13089,6 +13125,7 @@ MonoBehaviour:
   DebugActive: 0
   Sfx: {fileID: 8300000, guid: 6872e40aedb5c1246986a4cfe88a2f67, type: 3}
   RandomSfx: []
+  TestButton: 0
   PlayMethod: 0
   PoolSize: 10
   MinVolume: 1
