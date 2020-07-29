@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 438072}
   - component: {fileID: 3343138}
   - component: {fileID: 2316126}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: rotor_main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 468090}
   - component: {fileID: 3308358}
   - component: {fileID: 2331808}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_small_heli_z_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 469156}
   - component: {fileID: 3379798}
   - component: {fileID: 2302984}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: rotor_tail
   m_TagString: Untagged
   m_Icon: {fileID: 0}

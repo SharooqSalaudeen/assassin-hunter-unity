@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 498580}
   - component: {fileID: 3328888}
   - component: {fileID: 2345872}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_apc_02_body_z_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ GameObject:
   - component: {fileID: 475578}
   - component: {fileID: 3328756}
   - component: {fileID: 2376240}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: turret
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 408820}
   - component: {fileID: 3325702}
   - component: {fileID: 2344886}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: barrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 486618}
   - component: {fileID: 3326394}
   - component: {fileID: 2396670}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mgGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -331,7 +331,7 @@ GameObject:
   - component: {fileID: 450158}
   - component: {fileID: 3330242}
   - component: {fileID: 2303012}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: lid01
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 419806}
   - component: {fileID: 3351638}
   - component: {fileID: 2346084}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_rr
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 484386}
   - component: {fileID: 3382800}
   - component: {fileID: 2357592}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 464610}
   - component: {fileID: 3380500}
   - component: {fileID: 2307708}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fr
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 496942}
   - component: {fileID: 3373464}
   - component: {fileID: 2318898}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_rl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ GameObject:
   - component: {fileID: 435122}
   - component: {fileID: 3355990}
   - component: {fileID: 2327596}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_armor_car_body_c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -411,7 +411,7 @@ GameObject:
   - component: {fileID: 435540}
   - component: {fileID: 3316244}
   - component: {fileID: 2395006}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: barrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -490,7 +490,7 @@ GameObject:
   - component: {fileID: 465142}
   - component: {fileID: 3373070}
   - component: {fileID: 2316106}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: turret
   m_TagString: Untagged
   m_Icon: {fileID: 0}

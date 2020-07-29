@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 442356}
   - component: {fileID: 3386334}
   - component: {fileID: 2310762}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 425236}
   - component: {fileID: 3364834}
   - component: {fileID: 2331424}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_rl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 424338}
   - component: {fileID: 3360046}
   - component: {fileID: 2342306}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fr
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 496132}
   - component: {fileID: 3368622}
   - component: {fileID: 2364394}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ GameObject:
   - component: {fileID: 438098}
   - component: {fileID: 3381360}
   - component: {fileID: 2345572}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_rr
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -406,7 +406,7 @@ GameObject:
   - component: {fileID: 448488}
   - component: {fileID: 3323550}
   - component: {fileID: 2358524}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_troop_car_z_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}

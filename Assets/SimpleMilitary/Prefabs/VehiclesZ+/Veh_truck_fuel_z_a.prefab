@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 465148}
   - component: {fileID: 3348192}
   - component: {fileID: 2391720}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fr1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 467322}
   - component: {fileID: 3355846}
   - component: {fileID: 2370546}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fr3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 417224}
   - component: {fileID: 3310478}
   - component: {fileID: 2334740}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 489900}
   - component: {fileID: 3357606}
   - component: {fileID: 2343058}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fr
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ GameObject:
   - component: {fileID: 490304}
   - component: {fileID: 3358744}
   - component: {fileID: 2316706}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fl2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -406,7 +406,7 @@ GameObject:
   - component: {fileID: 413554}
   - component: {fileID: 3355908}
   - component: {fileID: 2368054}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fl1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -485,7 +485,7 @@ GameObject:
   - component: {fileID: 450142}
   - component: {fileID: 3307788}
   - component: {fileID: 2360518}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_truck_fuel_z_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -571,7 +571,7 @@ GameObject:
   - component: {fileID: 422916}
   - component: {fileID: 3307364}
   - component: {fileID: 2326136}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: wheel_fr2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

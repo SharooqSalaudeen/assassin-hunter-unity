@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 423012}
   - component: {fileID: 3302866}
   - component: {fileID: 2303678}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 446386}
   - component: {fileID: 3310120}
   - component: {fileID: 2309402}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_08
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 477126}
   - component: {fileID: 3363348}
   - component: {fileID: 2399016}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -248,7 +248,7 @@ GameObject:
   - component: {fileID: 430380}
   - component: {fileID: 3383908}
   - component: {fileID: 2388628}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: rotor_tail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ GameObject:
   - component: {fileID: 459820}
   - component: {fileID: 3315652}
   - component: {fileID: 2386518}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_attack_heli_z_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -417,7 +417,7 @@ GameObject:
   - component: {fileID: 472360}
   - component: {fileID: 3377274}
   - component: {fileID: 2393704}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cannonBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   - component: {fileID: 440364}
   - component: {fileID: 3385540}
   - component: {fileID: 2341438}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -576,7 +576,7 @@ GameObject:
   - component: {fileID: 433966}
   - component: {fileID: 3373358}
   - component: {fileID: 2385538}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: rotor_main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -655,7 +655,7 @@ GameObject:
   - component: {fileID: 485844}
   - component: {fileID: 3367358}
   - component: {fileID: 2369570}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -734,7 +734,7 @@ GameObject:
   - component: {fileID: 412150}
   - component: {fileID: 3373338}
   - component: {fileID: 2301918}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 457926}
   - component: {fileID: 3395114}
   - component: {fileID: 2343036}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -892,7 +892,7 @@ GameObject:
   - component: {fileID: 483786}
   - component: {fileID: 3356856}
   - component: {fileID: 2338456}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -971,7 +971,7 @@ GameObject:
   - component: {fileID: 429594}
   - component: {fileID: 3332270}
   - component: {fileID: 2383562}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: missile_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}

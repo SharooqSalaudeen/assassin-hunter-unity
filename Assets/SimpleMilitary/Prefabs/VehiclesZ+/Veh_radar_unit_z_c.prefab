@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 467440}
   - component: {fileID: 3348420}
   - component: {fileID: 2337534}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: radar_turret
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 424198}
   - component: {fileID: 3338506}
   - component: {fileID: 2381164}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Veh_radar_unit_z_c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
