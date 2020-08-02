@@ -170,6 +170,7 @@ GameObject:
   - component: {fileID: 435564}
   - component: {fileID: 3388118}
   - component: {fileID: 2361562}
+  - component: {fileID: -6996688049308628506}
   m_Layer: 8
   m_Name: Veh_armor_car_body_b
   m_TagString: Untagged
@@ -243,6 +244,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &-6996688049308628506
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110408}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.4149132, y: 3.8037806, z: 6.7103386}
+  m_Center: {x: 0, y: 2.6350589, z: 0.010605574}
 --- !u!1 &136614
 GameObject:
   m_ObjectHideFlags: 0

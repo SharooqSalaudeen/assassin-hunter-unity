@@ -485,6 +485,7 @@ GameObject:
   - component: {fileID: 450142}
   - component: {fileID: 3307788}
   - component: {fileID: 2360518}
+  - component: {fileID: 4090643896354482575}
   m_Layer: 8
   m_Name: Veh_truck_fuel_z_a
   m_TagString: Untagged
@@ -560,6 +561,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &4090643896354482575
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 143832}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.9903677, y: 4.117965, z: 10.814847}
+  m_Center: {x: 0, y: 2.5820987, z: -0.0014419556}
 --- !u!1 &160198
 GameObject:
   m_ObjectHideFlags: 0

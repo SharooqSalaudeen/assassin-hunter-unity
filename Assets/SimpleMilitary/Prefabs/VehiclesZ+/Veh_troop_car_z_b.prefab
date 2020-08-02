@@ -406,6 +406,7 @@ GameObject:
   - component: {fileID: 444418}
   - component: {fileID: 3335830}
   - component: {fileID: 2304680}
+  - component: {fileID: 8847500787794497766}
   m_Layer: 8
   m_Name: Veh_troop_car_z_b
   m_TagString: Untagged
@@ -479,3 +480,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8847500787794497766
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166734}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.9770608, y: 4.159084, z: 7.005644}
+  m_Center: {x: 0, y: 2.6618598, z: -0.00000059604645}

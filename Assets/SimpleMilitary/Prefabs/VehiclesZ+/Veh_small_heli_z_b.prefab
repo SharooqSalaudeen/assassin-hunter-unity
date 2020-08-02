@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 405738}
   - component: {fileID: 3300644}
   - component: {fileID: 2378424}
+  - component: {fileID: -471264609254699026}
   m_Layer: 8
   m_Name: Veh_small_heli_z_b
   m_TagString: Untagged
@@ -81,6 +82,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &-471264609254699026
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108460}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.5147247, y: 4.4807024, z: 14.667832}
+  m_Center: {x: 0.0000141859055, y: 2.2403512, z: -3.797832}
 --- !u!1 &179010
 GameObject:
   m_ObjectHideFlags: 0

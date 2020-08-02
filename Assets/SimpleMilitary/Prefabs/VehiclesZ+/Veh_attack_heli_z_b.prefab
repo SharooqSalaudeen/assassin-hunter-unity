@@ -327,6 +327,7 @@ GameObject:
   - component: {fileID: 459820}
   - component: {fileID: 3315652}
   - component: {fileID: 2386518}
+  - component: {fileID: 3775380855964352827}
   m_Layer: 8
   m_Name: Veh_attack_heli_z_b
   m_TagString: Untagged
@@ -406,6 +407,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3775380855964352827
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 145818}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 6.262866, y: 4.893737, z: 15.174721}
+  m_Center: {x: -0.0000013113022, y: 2.4468684, z: -1.4121463}
 --- !u!1 &152028
 GameObject:
   m_ObjectHideFlags: 0

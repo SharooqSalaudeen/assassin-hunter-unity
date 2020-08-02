@@ -11595,7 +11595,7 @@ GameObject:
   - component: {fileID: 395}
   - component: {fileID: 375}
   m_Layer: 10
-  m_Name: Suspenders
+  m_Name: Suspenders 1
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

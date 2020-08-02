@@ -486,6 +486,7 @@ GameObject:
   - component: {fileID: 400012}
   - component: {fileID: 3300012}
   - component: {fileID: 2300012}
+  - component: {fileID: 5792542731166947935}
   m_Layer: 8
   m_Name: armor_car_c
   m_TagString: Untagged
@@ -559,3 +560,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &5792542731166947935
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100012}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.4149134, y: 3.8037806, z: 6.710339}
+  m_Center: {x: 0, y: 2.6350589, z: -0.010605574}

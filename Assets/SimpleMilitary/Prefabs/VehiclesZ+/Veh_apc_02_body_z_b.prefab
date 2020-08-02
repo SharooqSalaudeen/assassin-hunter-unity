@@ -248,6 +248,7 @@ GameObject:
   - component: {fileID: 448908}
   - component: {fileID: 3346750}
   - component: {fileID: 2335258}
+  - component: {fileID: 6560122825322982193}
   m_Layer: 8
   m_Name: Veh_apc_02_body_z_b
   m_TagString: Untagged
@@ -317,6 +318,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &6560122825322982193
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174932}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.3476744, y: 5.5292845, z: 8.855202}
+  m_Center: {x: 0, y: 2.7646422, z: -0.35113263}
 --- !u!1 &187476
 GameObject:
   m_ObjectHideFlags: 0

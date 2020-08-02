@@ -90,6 +90,7 @@ GameObject:
   - component: {fileID: 458588}
   - component: {fileID: 3326694}
   - component: {fileID: 2391978}
+  - component: {fileID: 8674933641420007604}
   m_Layer: 8
   m_Name: Veh_radar_unit_z_b
   m_TagString: Untagged
@@ -159,3 +160,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8674933641420007604
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 196742}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.9811726, y: 2.7194724, z: 4.088763}
+  m_Center: {x: -0.0016046166, y: 1.3597069, z: 0.038790584}

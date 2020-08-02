@@ -250,6 +250,7 @@ GameObject:
   - component: {fileID: 456484}
   - component: {fileID: 3330516}
   - component: {fileID: 2355422}
+  - component: {fileID: -7637125974147334166}
   m_Layer: 8
   m_Name: Veh_tank_02_body_z_a
   m_TagString: Untagged
@@ -319,3 +320,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &-7637125974147334166
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155696}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.2464232, y: 2.8326275, z: 9.775688}
+  m_Center: {x: 0, y: 1.4163138, z: -0.5077841}
